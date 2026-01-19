@@ -120,6 +120,7 @@ const inputStyle = {
   marginBottom: "15px",
   borderRadius: "6px",
   border: "1px solid #ccc",
+  color: "#111827",
   outline: "none",
 };
 
