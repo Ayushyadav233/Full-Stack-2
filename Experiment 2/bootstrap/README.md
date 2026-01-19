@@ -157,7 +157,7 @@ Bootstrap is an effective UI framework for building responsive and visually cons
 
 ## Author
 
-**Chirag**
+Ayush yadav
 
 ---
 

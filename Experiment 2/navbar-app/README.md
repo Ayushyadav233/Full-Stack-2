@@ -511,7 +511,7 @@ By completing this experiment, you have learned to:
 
 ## Author
 
-**Chirag**
+Ayush yadav
 
 ---
 
