@@ -180,5 +180,5 @@ This project is licensed under the MIT License.
 ---
 
 ## Author
-Chirag
+Ayush Yadav
 
